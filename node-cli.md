@@ -20,7 +20,8 @@ $ my-cli create --type json --output out-file.json
 * git
 
 ### Libraries:
-* https://oclif.io/
+* [oclif](https://oclif.io/) - Very high level CLI library.
+* [Commander.js](https://www.npmjs.com/package/commander) - Command-line library.
 
 ### Articles:
 * https://timber.io/blog/creating-a-real-world-cli-app-with-node/
